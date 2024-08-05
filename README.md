@@ -1,7 +1,7 @@
 # MACHINE-LEARNING-PROJECTS
 This repository contains various machine learning projects done by me by using datasets from Kaggle . These projects contain a full fledge workflow from loading the data , EDA , to Evaluation metrics.
 
-![image](https://github.com/SEJALHANMANTE/MACHINE-LEARNING-PROJECTS/assets/120907298/6c7b3f1a-9b69-440d-a032-92fb63c4cf6c =250x250)
+![image](https://github.com/SEJALHANMANTE/MACHINE-LEARNING-PROJECTS/assets/120907298/6c7b3f1a-9b69-440d-a032-92fb63c4cf6c |width=200)
 
 **LIBRARIES USED :** 
 1. PANDAS
